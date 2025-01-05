@@ -1,8 +1,5 @@
-# React + Vite
+# PTP Spinner
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple application created to test the Cline AI VS Code extension. It demonstrates a basic loading spinner animation.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+You can view the live demo at: https://travislwatson.github.io/ptp-spinner/
